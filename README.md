@@ -94,7 +94,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-# 👨‍💻 Author
+
   
-Feel free to ⭐ the https://github.com/tushar-81/cph-leetcode if you find this extension helpful.  
-For any queries or issues, reach out at [tusharbailwal81@gmail.com].
+
