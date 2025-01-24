@@ -63,36 +63,8 @@ npm run compile
 # 🛠️ Supported Languages
 
 - **C++**
-- **Python**
+- **Python
 
----
-
-# 🗓️ Upcoming Features
-
-- Add support for Java.
-- Fetch test cases for LeetCode daily challenges directly from the extension.
-- Allow users to customize the storage directory for test cases.
-
----
-
-
-# 🤝 Contributing
-
-Contributions are welcome!  
-To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m "Add a new feature"`).
-4. Push the branch (`git push origin feature-branch`).
-5. Create a Pull Request.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 
   
